@@ -1,11 +1,10 @@
-# IP Grabber
+# IP Grabber using express
+## How to run:
+1. install dependencies by running:
 
-# WARNING: THIS IS FOR EDUCATIONAL PURPOSES ONLY
+    npm install
+2. run the development server:
 
-### Setup
+    npm run dev
 
-```npm install```
-
-### To run the bot on a dev server:
-
-```npm run dev```
+# WARNING THIS IS FOR EDUCATIONAL PURPOSES ONLY
